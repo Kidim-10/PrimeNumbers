@@ -1,3 +1,7 @@
 # PrimeNumbers
 
-Exploring prime numbers with code.
+Exploring Prime numbers.
+
+Sieve of eratosthenes method.
+
+Brute force method.
